@@ -1,0 +1,36 @@
+.app {
+    background-image: linear-gradient(to bottom right, white, lightgreen);
+    width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+.tasks {
+    margin-top: 30px;
+}
+
+.todo {
+    margin: 10px auto;
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.complete {
+    color: silver;
+    text-decoration: line-through;
+    background-color: grey;
+    border-color: black;
+}
+
+.incomplete {
+    color: darkgreen;
+    background-color: #e7ffde;
+    border-color: green;
+}
